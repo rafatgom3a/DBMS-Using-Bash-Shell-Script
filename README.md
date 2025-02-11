@@ -1,4 +1,4 @@
-# 🗄️ Bash Shell Script Database Management System (DBMS)
+# Bash Shell Script Database Management System (DBMS)
 
 ## 📖 Project Description
 This project is a **Command-Line Interface (CLI) Database Management System (DBMS)** written in **Bash Shell Script**. It allows users to **store and retrieve data** from the hard disk efficiently.
